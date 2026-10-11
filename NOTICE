@@ -1,0 +1,22 @@
+ds-xzt
+Copyright (c) 2026 ds-xzt contributors
+
+This project is a community desktop wrapper for DeepSeek Harness.
+
+DeepSeek Harness v0.1.0-rc.8
+Copyright (c) 2026 DeepSeek
+License: MIT
+Upstream: https://github.com/deepseek-ai/deepseek-harness
+License text: licenses/DEEPSEEK-HARNESS-LICENSE.txt
+
+The Windows installer includes these bundled components:
+
+- Node.js 24.18.0
+- Electron 39.8.10 (MIT, see licenses/ELECTRON-LICENSE.txt)
+- electron-builder 26.15.3 build tooling (MIT, see licenses/ELECTRON-BUILDER-LICENSE.txt)
+- DeepSeek Harness npm packages and their dependencies
+
+Full generated DeepSeek Harness third-party notices are in
+THIRD_PARTY_NOTICES.md. Node.js license text is in
+licenses/NODEJS-LICENSE.txt and is included beside the bundled runtime at
+resources/runtime/LICENSE.nodejs.txt.

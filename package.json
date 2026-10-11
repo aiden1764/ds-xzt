@@ -1,0 +1,9 @@
+{
+  "name": "dsh-desktop-baiyun",
+  "productName": "ds-xzt",
+  "version": "0.2.0",
+  "description": "ds-xzt —— DeepSeek Harness 社区桌面版",
+  "author": "Community contributors",
+  "license": "MIT",
+  "main": "main.js"
+}
